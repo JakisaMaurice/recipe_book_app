@@ -92,7 +92,7 @@ class HomePage extends StatelessWidget {
                     ),
                     SizedBox(height: 10), // Spacing
                     Text(
-                      '$username', // Display username
+                      username, // Display username
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 20,
